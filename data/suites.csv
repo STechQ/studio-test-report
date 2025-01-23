@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","44072","Yillik Kart Ucreti Iadesi Yapilmasi - @workflow","chromium","Thu Jan 23 06:43:36 UTC 2025","failed","Thu Jan 23 06:44:20 UTC 2025","","workflow/bRMAnnualCardFeeRefund.spec.ts","",""
+"","58633","Yillik Kart Ucreti Iadesi Yapilmasi - @workflow","chromium","Thu Jan 23 06:56:54 UTC 2025","failed","Thu Jan 23 06:57:53 UTC 2025","","workflow/bRMAnnualCardFeeRefund.spec.ts","",""
